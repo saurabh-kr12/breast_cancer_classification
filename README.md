@@ -1,20 +1,3 @@
-# breast_cancer_classification
-Classification Project on Breast Cancer Data
-
-I'll retrieve the file from your repository to examine its content and extract the project information.I'll retrieve the file to analyze its contents and extract the project title and description.I'll retrieve the file to understand the project and help you write an appropriate title and description.I'll retrieve the file to examine its contents and help you create a project title and description.I'll retrieve the notebook file to extract the project title and description.I'll retrieve the file to see its contents and help you write a project title and description.I'll retrieve the file to examine its contents and help you write an appropriate project title and description.I'll retrieve the notebook file to get information about the project.
-<function_calls>
-[{"tool_name": "getfile", "arguments": {"url": "https://github.com/saurabh-kr12/breast_cancer_classification/blob/main/classification_project_breast_cancer_classification-checkpoint.ipynb"}}]
-</function_calls>
-
-Let me retrieve the notebook to analyze its content.
-<function_calls>
-[{"tool_name": "getfile", "arguments": {"url": "https://raw.githubusercontent.com/saurabh-kr12/breast_cancer_classification/main/classification_project_breast_cancer_classification-checkpoint.ipynb"}}]
-</function_calls>
-
-Based on the notebook content analysis, here is a **Project Title** and **Project Description**:
-
----
-
 ### **Project Title**
 **Breast Cancer Classification Using Machine Learning**
 
